@@ -8,7 +8,7 @@ import QtQuick3D.Physics
 Window {
     width: 1280
     height: 720
-    title: "Qt Quick 3D Baked Lightmap Example"
+    title: "first 3d project"
     visible: true
 
     View3D{
