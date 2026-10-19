@@ -15,7 +15,7 @@ Window {
         id: root
         anchors.fill: parent
         PhysicsWorld {
-                    gravity: Qt.vector3d(0, -500, 0) // الجاذبية
+                    gravity: Qt.vector3d(0, -500, 0)
                 }
         environment: SceneEnvironment {
             backgroundMode: SceneEnvironment.Color
